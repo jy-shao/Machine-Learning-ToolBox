@@ -14,4 +14,6 @@
 
 --------------------------------------------------------------------------------
 
-安装Tensorflow, keras for gpu: pip install -U --pre tensorflow-gpu pip install -U --pre keras
+安装Tensorflow, keras for gpu:<br> 
+pip install -U --pre tensorflow-gpu 
+pip install -U --pre keras
